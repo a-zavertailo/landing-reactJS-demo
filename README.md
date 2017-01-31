@@ -1,6 +1,5 @@
 ## Demo landing page application with reactJS logic
 
-
 ## Задача 
 * Создание сайта-портфолио по предоставленному psd макету. 
 
